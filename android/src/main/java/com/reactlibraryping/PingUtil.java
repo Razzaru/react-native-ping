@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactlibraryping;
 
 import android.support.v4.util.ArrayMap;
 
