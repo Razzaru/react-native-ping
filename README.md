@@ -22,8 +22,6 @@
 or
 `$ yarn add react-native-ping`
 
-## Linking (for React Native <= 0.59 only, React Native >= 0.60 skip this as auto-linking should work)
-
 ### Mostly automatic installation
 
 `$ react-native link react-native-ping`

@@ -1,23 +1,54 @@
 {
-  "name": "react-native-ping",
-  "version": "1.2.2",
-  "description": "Highly accurate ICMP Ping controller for React Native",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "react-native-ping@^1.2.2",
+  "_id": "react-native-ping@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-/6SvY6auKC4pa7QXaNGqZfNgIKi3Wxb2wE8ExICvUmM+wpiW+zXYSr14+HHVTged3lrVTrAQYB0C+aL4Uu0stQ==",
+  "_location": "/react-native-ping",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-ping@^1.2.2",
+    "name": "react-native-ping",
+    "escapedName": "react-native-ping",
+    "rawSpec": "^1.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.2"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-ping/-/react-native-ping-1.2.2.tgz",
+  "_shasum": "36f150edb9fb622e84baa0c10cb29da1438c39f2",
+  "_spec": "react-native-ping@^1.2.2",
+  "_where": "/home/razzaru/projects/fsm-mobile-new",
+  "author": {
+    "name": "tiancailuohao@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/RoJoHub/react-native-ping/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Highly accurate ICMP Ping controller for React Native",
+  "homepage": "https://github.com/RoJoHub/react-native-ping#readme",
   "keywords": [
     "react-native",
     "ping",
     "react-native-ping"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RoJoHub/react-native-ping"
-  },
-  "author": "tiancailuohao@gmail.com",
   "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-ping",
   "peerDependencies": {
     "react-native": "^0.41.2 || ^0.57.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoJoHub/react-native-ping.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.2"
 }
